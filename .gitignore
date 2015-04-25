@@ -1,5 +1,10 @@
 node_modules/*
 logs/*
 .idea/workspace.xml
-
+.idea/*
+.idea*
 .idea/workspace.xml
+
+*.xml
+
+config/credentials.json
